@@ -1,0 +1,1 @@
+az deployment group create --resource-group <your-resource-group> --template-file <path-to-template-file> --parameters storageAccountName=<your-storage-account-name>
